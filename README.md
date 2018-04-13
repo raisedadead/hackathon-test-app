@@ -1,6 +1,5 @@
-# Welcome to freeCodeCamp's About page
+# Welcome to freeCodeCamp's sponsor page
 
-This is a simple static website that we plan to expand once we release our open REST API.
+This is a list of the companies who in-kind sponsor freeCodeCamp.org by giving us free access to their services.
 
-You can view our about page live here: https://www.freecodecamp.com/about
-
+You can view our sponsor page live here: https://sponsors.freecodecamp.org
