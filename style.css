@@ -12383,3 +12383,7 @@ button.toast-close-button {
 ul>li {
   list-style-type: disc;
 }
+
+.sponsor-logo {
+  max-height: 80px;
+}
